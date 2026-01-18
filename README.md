@@ -1,2 +1,2 @@
-# hello--world
-My first GitHub repository 
+hello I am sanika joshi
+This is My first GitHub repository 
